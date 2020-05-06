@@ -7,10 +7,10 @@ If you want to make robots, but you don't know where to start, well, you can sta
 - :wave: Hands-on
 
 
-# Goals
-- Gain Strong Foundation in open-source electronics and prototyping 
-- Gain Intuition about Mechanical Prototyping and Design with dc brush motors, servo motors and stepper motors
-- Apply Basic Machine Learning and Computer Vision: Facial Recognition with Raspberry Pi 
+## Objectives 
+- Get at strong foundation in open-source electronics and prototyping 
+- Gain intuition on mechanical prototyping and design with dc brush motors, servo motors and stepper motors
+- Apply basic machine learning and computer vision to a small project: facial Recognition with Raspberry Pi 
 
 ### Arduino 
 - :moneybag::bangbang::wave: [Affortable Very Basic Arduino Starter Kit from DFRobot](https://www.dfrobot.com/product-345.html)
