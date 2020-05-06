@@ -1,5 +1,8 @@
 This page is bare because I haven't opened a robotics textbook, let alone a textbook, in years.
-Professor Peter Corke compiled a list of [his favorite robotics books](https://petercorke.com/resources/interesting-books/), you might want to check that out.
+
+You might want to checkout:
+- Professor Peter Corke's [favorite robotics books](https://petercorke.com/resources/interesting-books/) compilation
+- [Robotics books](https://github.com/mithi/robotics-coursework/issues/6#issuecomment-624582905) recommended by @Varun-GP
 
 # Lego
 - ❤️ The Unofficial LEGO Technic Builder's Guide, 2nd Edition, Pawel Sariel Kmiec
