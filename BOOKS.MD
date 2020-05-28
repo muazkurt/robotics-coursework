@@ -1,33 +1,29 @@
+This page is bare because I haven't opened a robotics textbook, let alone a textbook, in years.
 
-# Robotics
-- Principles of Robot Motion, _Howie Choset_
-- Modern Robotics: Mechanics, Planning, and Control, _Kevin Lynch_
-- Introduction to Autonomous Mobile Robots, _Roland Siegwart_
-- Planning Algorithms, _Steven M. La Valle_
-- A Gentle Introduction to ROS, _Jason M. O'Kane_
+You might want to checkout:
+- Professor Peter Corke's [favorite robotics books](https://petercorke.com/resources/interesting-books/) compilation
+- [Robotics books](https://github.com/mithi/robotics-coursework/issues/6#issuecomment-624582905) recommended by @Varun-GP
 
-# Algorithms
-- The Algorithm Design Manual, _Steven Skien_
-- Introduction to Algorithms, _Thomas Cormen_
-- Algorithms, _Robert Sedgewick_
-- Grokking Algorithms, _Aditya Bhargava_
-- Data Structures and Algorithms in Python, _Michael T. Goodrich_
-
-# Functional Programming Paradigm
-- Land of Lisp: Learn to Program in Lisp, One Game at a Time!, _Conrad Barski_
+# Lego
+- ❤️ The Unofficial LEGO Technic Builder's Guide, 2nd Edition, Pawel Sariel Kmiec
+- ❤️ Any picture book by Yoshihito Isogawa
 
 # Electronics
-- Practical Electronics for Inventors, _Paul Scherz_
-- The Art of Electronics, _Paul Horowitz_
+- Practical Electronics for Inventors, Paul Scherz
+- The Art of Electronics, Paul Horowitz
 
-# Drones
-- DIY Drones for the Evil Genius: Design, Build, and Customize Your Own Drones, _Ian Cinnamon_
-- Make: Drones: Teach an Arduino to Fly, _David McGriffy_
-- The Complete Guide to Drones: Whatever your budget - Build + Choose + Fly + Photograph, _Adam Juniper_
+# Algorithms
+- The Algorithm Design Manual, Steven Skien
+- Algorithms, Robert Sedgewick and Kevin Wayne
+- Grokking Algorithms, Aditya Bhargava
+- Introduction to Algorithms, Thomas Cormen and Charles Leiserson
+
+#  Mechanics
+- Basic Machines and How They Work, Prepared by Bureau of Naval Personnel
+- Engineering Dynamics: A Comprehensive Introduction, N. Jeremy Kasdin et al
+- Vector Mechanics for Engineers: Statics and Dynamics, Ferdinand P. Beer et al
+- ❤️ [More books related to Machine Design](https://github.com/mithi/robotics-coursework/issues/6#issuecomment-624563749)
 
 # Artifical Intelligence
--  Artificial Intelligence: A Modern Approach, _Stuart Russell and Peter Norvig_
+-  Artificial Intelligence: A Modern Approach, Stuart Russell and Peter Norvig
 
-# Motion Planning
-- Robot Motion Planning, Jean-Claude Latombe, Kluwer Academic Publishers, 1991.
-- Planning Algorithms, Steven M. LaValle, Cambridge University Press, 2006.
